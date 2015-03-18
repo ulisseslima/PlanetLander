@@ -1,2 +1,0 @@
-# PlanetLander
-Work in progress.
